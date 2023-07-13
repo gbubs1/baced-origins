@@ -1,0 +1,93 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#c:raw_beef",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_beef",
+            "required": false
+        },
+        {
+            "id": "#c:raw_bacon",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_bacon",
+            "required": false
+        },
+        {
+            "id": "#c:raw_mutton",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_mutton",
+            "required": false
+        },
+        {
+            "id": "#c:raw_pork",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_pork",
+            "required": false
+        },
+        {
+            "id": "#c:raw_chicken",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_chicken",
+            "required": false
+        },
+        {
+            "id": "#c:raw_fishes",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_fishes",
+            "required": false
+        },
+        {
+            "id": "#c:raw_eggs",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_eggs",
+            "required": false
+        },
+        {
+            "id": "#c:raw_squid",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_squid",
+            "required": false
+        },
+        {
+            "id": "#c:raw_calamari",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_calamari",
+            "required": false
+        },
+        
+        "farmersdelight:ham",
+        "farmersdelight:smoked_ham",
+
+        "nethersdelight:hoglin_loin",
+        "nethersdelight:hoglin_sirloin",
+        "nethersdelight:strider_slice",
+        "nethersdelight:ground_strider",
+        "nethersdelight:hoglin_ear",
+        "nethersdelight:warped_moldy_meat",
+        "nethersdelight:grilled_strider",
+        "nethersdelight:strider_moss_stew",
+        "nethersdelight:plate_of_stuffed_hoglin_snout",
+        "nethersdelight:plate_of_stuffed_hoglin_ham",
+        "nethersdelight:plate_of_stuffed_hoglin_roast",
+        "nethersdelight:nether_skewer"
+    ]
+}

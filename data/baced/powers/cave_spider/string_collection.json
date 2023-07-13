@@ -1,0 +1,26 @@
+{
+    "type": "origins:active_self",
+    "key": "key.origins.secondary_active",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:give",
+                "preferred_slot": "mainhand",
+                "stack": {
+                    "item": "minecraft:string"
+                }
+            },
+            {
+                "type": "origins:exhaust",
+                "amount": 2.0
+            }
+        ]
+    },
+    "cooldown": 1200,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 5
+    }
+}
