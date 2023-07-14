@@ -13,6 +13,7 @@
         "baced:cave_spider/exoskeleton",
         "baced:cave_spider/moodswings",
         "baced:cave_spider/string_collection",
-        "baced:cave_spider/poison_immunity"
+        "baced:cave_spider/poison_immunity",
+        "baced:cave_spider/death_loot"
 	]
 }
